@@ -4,7 +4,7 @@
  * @s: string to search
  * @c: character to locate
  *
- * Return: pointer to the first occurrence of c, or NULL
+ * Return: pointer to the first occurrence of c, or 0
  */
 char *_strchr(char *s, char c)
 {
@@ -23,5 +23,5 @@ char *_strchr(char *s, char c)
 		}
 	}
 
-	return (NULL);
+	return (0);
 }
