@@ -11,7 +11,7 @@
  {
     char *name;
     float age;
-    char *دهowner;
+    char *owner;
  };
 
  #endif
