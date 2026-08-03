@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - prints the program name
  * @argc: number of command line arguments
